@@ -2,7 +2,7 @@
 
 ##  GRIPJUNE2021
 
-##Task 1 - Basic Banking System
+## Task 1 - Basic Banking System
 
 ### Website hosted at
 
