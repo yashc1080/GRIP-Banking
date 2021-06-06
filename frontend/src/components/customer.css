@@ -1,0 +1,29 @@
+#userImage{
+    width:100%;
+    height:400px;
+    border-radius: 20px;
+}
+
+#info{
+    justify-content: center;
+    font-family: source sans pro;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+#transfer{
+    width: 70px;
+    height: 70px;
+   
+}
+
+#label{
+    margin-top: 7%;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+#exchangeButton:hover{
+    background-color: #ffffff;
+    color: royalblue;
+}

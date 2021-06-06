@@ -1,0 +1,40 @@
+#navbar{
+  z-index: 5;
+  box-shadow: 2px 2px 2px 2px rgba(0,0,0, 0.5);
+}
+
+#logo{
+  display:inline-block;
+}
+#title{
+  display:inline-block;
+  font-family: Raleway;
+  font-weight:bold;
+  font-size:35px;
+  position: relative;
+  top:15px;
+}
+
+#container{
+  margin:0px;
+}
+
+#nav{
+  position: absolute;
+  right:30px;
+}
+
+#link_1{
+  position: relative;
+  top: 10px;
+  font-family: Raleway;
+  font-size:30px;
+  font-weight: bold;
+}
+
+#slogan{
+  font-size:40px;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+

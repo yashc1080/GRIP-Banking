@@ -1,0 +1,27 @@
+#record{
+    margin:10px;
+    text-align: center;
+    font-family: source sans pro;
+    font-weight: bold;
+    font-size: 20px;
+}
+#right-arrow{
+    height: 50px;
+    width: 50px;
+}
+
+#date{
+    padding-top: 10px;
+    overflow-x: hidden;
+}
+
+#name{
+    padding-top: 10px;
+}
+#cash{
+    font-size: 30px;
+}
+#transhead{
+    text-align: center;
+    font-family: Raleway;
+}

@@ -1,0 +1,28 @@
+#card1{
+    border:none;
+    border-radius: 20px;
+  }
+  
+  #card__img{
+    width:90%;
+  }
+  
+  #card__title{
+    font-family:Raleway;
+    font-weight: bold;
+    font-size:28px;
+  }
+  
+  #card__text{
+    line-break: loose;
+    font-family: source sans pro;
+  }
+  
+  #card__button{
+    border-radius: 42px;
+    font-family: source sans pro;
+  }
+  
+  #parent__card:hover{
+    border: 1px solid #f99245;
+  }
