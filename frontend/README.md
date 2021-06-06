@@ -1,6 +1,6 @@
 # The Spark Foundation
 
-##  #GRIPJUNE2021
+##  GRIPJUNE2021
 
 ##Task 1 - Basic Banking System
 
