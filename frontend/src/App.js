@@ -70,17 +70,17 @@ class App extends Component {
                
                 <Col xs={3} sm={2} >
                   <a href='https://www.facebook.com/AssalSolapuriSunderShengaChatni/' target="_blank" rel="noopener noreferrer" >
-                 <img src={facebook} alt="why"  width={40} height={40} />
+                 <img src={facebook} alt="fb"  width={40} height={40} />
                 </a>
                 </Col>
                 <Col xs={3} sm={2}>
                   <a href='https://www.instagram.com/' target="_blank" rel="noopener noreferrer">
-            <img src={ig} alt="why"  width={40} height={40} />
+            <img src={ig} alt="ig"  width={40} height={40} />
                 </a>
                 </Col>
                 <Col xs={3} sm={2}>
                   <a href='https://twitter.com/?lang=en' target="_blank" rel="noopener noreferrer">
-              <img src={twitter} alt="why"  width={40} height={40} />
+              <img src={twitter} alt="twitter"  width={40} height={40} />
                 </a>
                 </Col>
                 </Row>
